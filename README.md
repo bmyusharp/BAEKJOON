@@ -1,4 +1,10 @@
+# Bronze III
+
+[2476 - 주사위 게임](./2476.md)
+
 # Bronze IV
+
+[1008 - A/B](./1008.md)
 
 [24075 - 計算 (Calculation)](./24075.md)
 
